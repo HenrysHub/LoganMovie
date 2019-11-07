@@ -1,3 +1,4 @@
+https://tak17lehtsi.itmajakas.ee/index.html
 # Sissejuhatus
 Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 
