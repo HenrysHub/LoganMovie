@@ -7,3 +7,4 @@ Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
 * [Github](https://www.github.com/HenrysHub/LoganMovie/) - Kasutame GitHubi ülesande lisamiseks ja haldamiseks.
 
 # Kasutatud allikad 
+[Rottentomatoes](https://www.rottentomatoes.com/m/logan_2017) - Kasutajate tagassided
