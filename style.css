@@ -16,6 +16,10 @@ body {
     display: flex;
     justify-content: space-between;
 }
+.arrow{
+    font-size: 156px;
+    color: white;
+}
 
 .title {
     font-size: 156px;
