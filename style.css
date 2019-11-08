@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'swiss';
+    src: url('swisscb.ttf');
+}
+html, body {
+    height: 100%;
+}
+body {
+    background-image: url("https://i.imgur.com/FxT6z3S.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding: 0 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 156px;
+    font-family: 'swiss';
+    -webkit-text-stroke: 1px black;
+    margin: 30px 0;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
