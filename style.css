@@ -28,5 +28,8 @@ body {
 }
 .bottom{
     text-align: left;
-    text: column;K
+    text: column;
+    font-family: 'century';
+    font-size: 72px;
+
 }
