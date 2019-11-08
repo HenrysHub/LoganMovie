@@ -1,5 +1,5 @@
 # Sissejuhatus
-Siia ma kirjutan sissejuhatuse, kuidas me asja teeme.
+Kuidas siis asi käib?
 
 # Mida me kasutame veebilehekülje loomiseks?
 * [Figma](https://www.figma.com/) - Veebilehe disanimine
